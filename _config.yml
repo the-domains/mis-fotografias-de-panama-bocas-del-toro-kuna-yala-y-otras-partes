@@ -1,0 +1,28 @@
+name: 'Mis Fotografías de Panamá-Bocas del Toro, Kuna Yala y otras partes'
+favicon: null
+layout_spectrum: 0.6598805629182607
+typography_spectrum: 0.43436196097172797
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6326501977164298
+  lightness: 0.7025933826807886
+  saturation: 0.8887414527125657
+  rhythmicContrast: 0.047668440733104944
+purpose: []
