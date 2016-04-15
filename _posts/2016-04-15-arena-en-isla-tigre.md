@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-15T23:16:37.539Z'
-dateModified: '2016-04-15T23:07:36.236Z'
+datePublished: '2016-04-15T23:17:38.794Z'
+dateModified: '2016-04-15T23:16:41.486Z'
 title: 'Arena en Isla Tigre '
 author: []
 sourcePath: _posts/2016-04-15-arena-en-isla-tigre.md
