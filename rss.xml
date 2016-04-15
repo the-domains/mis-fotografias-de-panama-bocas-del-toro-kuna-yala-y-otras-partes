@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mis Fotografías de Panamá-Bocas del Toro, Kuna Yala y otras partes]]></title>
+        <description><![CDATA[Mis Fotografías de Panamá-Bocas del Toro, Kuna Yala y otras partes]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Apr 2016 23:08:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Arena en Isla Tigre ]]></title>
+            <description><![CDATA[<article><h1>Arena en Isla Tigre </h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/638c5045-e78e-48cc-8fbb-8f035575790c.jpg"></article>]]></description>
+            <link>undefinedarena-en-isla-tigre/index.html</link>
+            <guid isPermaLink="false">050f7908-e309-44ef-91c6-4e40e1b82f6d</guid>
+            <pubDate>Fri, 15 Apr 2016 23:07:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
